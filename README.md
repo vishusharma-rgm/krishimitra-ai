@@ -7,7 +7,7 @@ analysis, and mandi (market) price predictions.
 This is a **frontend-only** build using mock data so it runs instantly with
 no API keys. See "Going further" below for wiring up real backends.
 
-## Run it in VS Code
+## Run it in VS Code--
 
 You need [Node.js](https://nodejs.org) (v18+) installed.
 

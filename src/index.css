@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+}
+
+.kf-display {
+  font-family: "Fraunces", serif;
+}
+
+.kf-body {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.kf-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.kf-scroll::-webkit-scrollbar-thumb {
+  background: #d6d3c7;
+  border-radius: 4px;
+}
